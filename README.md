@@ -104,8 +104,3 @@ Setelah mempelajari program ini, diharapkan Anda mampu:
 * Menggunakan fungsi `round()` untuk membulatkan angka.
 * Menampilkan hasil program menggunakan `print()`.
 
----
-
-# 📄 Lisensi
-
-Proyek ini menggunakan **MIT License**, sehingga bebas digunakan, dipelajari, dimodifikasi, dan dikembangkan untuk tujuan pembelajaran.
